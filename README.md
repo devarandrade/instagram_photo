@@ -5,7 +5,7 @@ git init
 git add .
 git commit -m "first commit"
 git remote... (veja endereco de repositorio criado no GITHUB)
-git push
+git push -u origin master
 
 
 The most basic boilerplate for any 4Geeks Academy Student using the [gitpod.io](gitpod.io) coding editor.
