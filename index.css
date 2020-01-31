@@ -1,3 +1,15 @@
+body{
+    background-color: black;
+}
+.content{
+    position:absolute;
+    background: white;
+    width: 26%;
+    left: 36%;
+    height: 60%;
+    top: 20%;
+    font-family: 'Lato', sans-serif;
+}
 .downloads{
     position:absolute;
        top:15%;
