@@ -24,6 +24,10 @@ body{
     top: 10%
     
 }
+img{
+    width: 100%;
+    height: auto
+}
 .footer{
     position:absolute;
     width: 100%;
@@ -42,7 +46,9 @@ body{
     position: absolute;
     bottom: 3%;
 }
+
 .likes{
     position: absolute;
     bottom: 11%;
 }
+
