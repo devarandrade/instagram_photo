@@ -16,10 +16,24 @@ body{
     width: 100%;
     background-color: white;
 }
-#profile{
+.profile{
     position: absolute;
-    font-size: 200%
-    
+    height:80%;
+    width: 20%;
+    left: 40px;
+    margin: 0;
+}
+p{
+    font-size: 14px;
+    margin-top: 0;
+}
+.strong{
+    margin-top: 2px;
+}
+#html{
+    position: absolute;
+    font-size: 30px;
+    margin: 7px;    
 }
 #menu{
     position: absolute;
