@@ -16,6 +16,16 @@ body{
     width: 100%;
     background-color: white;
 }
+#profile{
+    position: absolute;
+    font-size: 200%
+    
+}
+#menu{
+    position: absolute;
+    right: 3%;
+    top: 9%;
+}
 .image{
     position:absolute;
     background-color: green;
@@ -36,6 +46,10 @@ img{
     height: 20px;
     padding: 3px;
     
+}
+#bookmark{
+    position: absolute;
+    right: 3%;
 }
 .pitbull{
     position: absolute;
